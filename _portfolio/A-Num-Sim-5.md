@@ -1,5 +1,5 @@
 ---
-title: "Biodenitrification Process Dynamics"
+title: "Biodenitrification Process Dynamics (Video)"
 excerpt: "  <br/><img src='/images/pic.png'>"
 collection: portfolio
 ---
