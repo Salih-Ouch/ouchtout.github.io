@@ -9,7 +9,7 @@ author_profile: true
 
 Voici la simulation thermique :
 
-<img src="imagesFolio/pic.png" alt="Simulation thermique" width="700">
+<img src="pic.png" alt="Simulation thermique" width="700">
 
 ### Détails de la simulation
 - **Équation :** ∂T/∂t = α ∇²T  
