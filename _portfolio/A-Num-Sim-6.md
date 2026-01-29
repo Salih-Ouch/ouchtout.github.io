@@ -1,6 +1,6 @@
 ---
 title: "Chemotaxis-Biodenitrification Process (Video)"
-excerpt: "  <br/><img src='/images/Pic6.png'>"
+excerpt: "  <br/><img src='/images/Pic6.png' width='300' height='200'>"
 collection: portfolio
 ---
 
