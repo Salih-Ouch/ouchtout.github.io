@@ -12,4 +12,4 @@ collection: portfolio
 </video>
  
 
-**Publication associée :** Journal of Thermal Science, 2025
+**Publication associée :** Mathematics and Computers in Simulation, 2021.
