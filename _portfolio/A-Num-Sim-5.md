@@ -1,6 +1,6 @@
 ---
 title: "Biodenitrification Process Dynamics (Video)"
-excerpt: "  <br/><img src='/images/Pic5.png'>"
+excerpt: "  <br/><img src='/images/Pic5.png' width='300' height='200'>"
 collection: portfolio
 ---
 
