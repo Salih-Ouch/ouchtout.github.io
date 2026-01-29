@@ -1,7 +1,6 @@
 ---
 title: |
-  <span style="color:#000000;"> **S. Ouchtout**, B. Rousseau, Y. Favennec. *Finite element framework for conducto-radiative transfers within heterogeneous media at both discrete and continuous scales*.
- **International Journal of Heat and Mass Transfer**,  vol. 197, p. 123274.</span>
+  <span style="color:#000000;"> **S. Ouchtout**, B. Rousseau, Y. Favennec. *Finite element framework for conducto-radiative transfers within heterogeneous media at both discrete and continuous scales*. **International Journal of Heat and Mass Transfer**,  vol. 197, p. 123274.</span>
    <span style="color:#d93025;">(2022)</span>
 collection: publications
 category: manuscripts
