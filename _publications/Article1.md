@@ -9,5 +9,5 @@ external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
 
-dx.doi.org/10.3934/cpaa.2020101  
- 
+Access URL: https://www.aimsciences.org/article/doi/10.3934/cpaa.2020101
+  
