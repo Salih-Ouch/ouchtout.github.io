@@ -1,13 +1,13 @@
 ---
 title: "Deuxième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2025–2026 (Premier semestre)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-2
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Laboratoire LMAC"
+permalink: /teaching/Teaching-2 
+venue: "Université UTC"
+date: 2025-01-01
+location: "Compiègne, France"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
----
+--- 
 
 Rappels et mise au point : intégrale de Riemann (propriétés, calculs), espaces euclidiens et hermitiens, primitives usuelles et compléments analytiques.
 
