@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "TTTalk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
@@ -7,4 +7,4 @@ venue: "UC San Francisco, Department of Testing"
 location: "San Francisco, CA, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+_This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
