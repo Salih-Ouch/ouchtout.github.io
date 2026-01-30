@@ -3,9 +3,9 @@ title: "Troisième expérience d’enseignement à l’Université de Technologi
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-3
-venue: "Laboratoire LMAC, Université de Technologie de Compiègne"
-date: 2025-01-01
-location: "Compiègne, France"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
 ---
 
