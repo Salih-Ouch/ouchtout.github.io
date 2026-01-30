@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Première expérience d’enseignement à l’Université KTC – Année universitaire 2024–2025 (Deuxième semestre)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
