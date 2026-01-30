@@ -3,9 +3,6 @@ title: "Première expérience d’enseignement à l’Université de Technologie
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1 
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
 ---
 
