@@ -12,4 +12,4 @@ collection: portfolio
   Votre navigateur ne supporte pas la lecture vidéo.
 </video>
 
-**Publication associée :** HAL-01973909, 2018
+**Publication associée :** [HAL-01973909, 2018.](https://hal.science/hal-01973909/)
