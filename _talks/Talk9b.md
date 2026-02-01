@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T10
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://www.isto-orleans.fr/2024/02/13/seminar-salih-ouchtout-fr/)
  
 
 
