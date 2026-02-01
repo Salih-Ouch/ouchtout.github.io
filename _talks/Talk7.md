@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T7
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://sites.google.com/view/anumab/s%C3%A9minaire-de-maturation-12-14-mai-2022)
  
 
 
