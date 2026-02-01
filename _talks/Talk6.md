@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T6
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://ntmsci.com/Areas/Conferences/FilesAndImages/19/ISAME-1.pdf#page=26)
  
 
 
