@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T3
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://tamtam2019-univ-tlemcen.weebly.com/)
  
 
 
