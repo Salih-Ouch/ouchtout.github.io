@@ -7,7 +7,7 @@ type: "Talk"
 permalink: /talks/T2
 ---
  
-[More information here](https://iciam2019.com/)
+[More information here](https://www.cimpa.info/en/ecoles/modelisation-analyse-mathematique-et-calcul-scientifique-dans-la-gestion-des-dechets)
  
 
 
