@@ -9,7 +9,7 @@ external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
 
-Access URL: https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2023.09.187
+Access URL: [https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2023.09.187](https://biomath.math.bas.bg/biomath/index.php/biomath/article/view/j.biomath.2023.09.187)
 
 
 
