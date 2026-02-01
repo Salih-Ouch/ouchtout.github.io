@@ -9,7 +9,7 @@ external_link: https://doi.org/10.xxxx/xxxxx
 excerpt: ' '
 ---
 
-Access URL: https://www.sciencedirect.com/science/article/abs/pii/S0898122124002748
+Access URL: [https://www.sciencedirect.com/science/article/abs/pii/S0898122124002748](https://www.sciencedirect.com/science/article/abs/pii/S0898122124002748)
 
 
 
