@@ -9,7 +9,7 @@ location: "Compiègne, France"
 excerpt: '' #Cliquez sur cet élément pour consulter la description détaillée.
 --- 
 
-Ce cours vise à doter les étudiants des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, indispensables à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
+Ce cours de MT22 vise à doter les étudiants des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, indispensables à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
 
 **_Programme:_**
 
