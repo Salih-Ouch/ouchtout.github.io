@@ -6,9 +6,12 @@ permalink: /teaching/Teaching-3
 venue: "Université UTC"
 date: 2026-01-01
 location: "Compiègne, France"
-excerpt: 'Cliquez sur cet élément pour consulter la description détaillée.'
+excerpt: '' #Cliquez sur cet élément pour consulter la description détaillée.
 --- 
 
+Ce cours vise à doter les étudiants des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, indispensables à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
+
+**_Programme:_**
 
 *-Fonctions de plusieurs variables : étude des fonctions de deux et de plusieurs variables réelles.*
 
