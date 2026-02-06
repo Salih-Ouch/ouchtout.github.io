@@ -1,6 +1,7 @@
 ---
 title: ""  
 collection: publications
+category: conferences
 permalink: /publications/publications-flagcounter/
 ---
 
