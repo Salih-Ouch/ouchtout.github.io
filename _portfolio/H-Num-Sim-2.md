@@ -1,5 +1,5 @@
 ---
-title: "Anaerobic Digestion Dynamics (Video)"
+title: "Anaerobic Digestion Dynamics (GIF/Video)"
 excerpt: "  <br/><img src='/images/Pic1.png' width='300' height='200'>"
 collection: portfolio
 ---
