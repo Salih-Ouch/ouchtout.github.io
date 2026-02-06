@@ -1,6 +1,7 @@
 ---
-title: ""  
+title: " "
 collection: teaching
+layout: single
 permalink: /teaching/teaching-flagcounter/
 ---
 
