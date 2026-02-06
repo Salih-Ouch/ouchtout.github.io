@@ -1,5 +1,5 @@
 ---
-title: "Conduction-Radiation Heat Transfer (Video)"
+title: "Conduction-Radiation Heat Transfer (GIF/Video)"
 excerpt: "  <br/><img src='/images/Pic4.png' width='400' height='200'>"
 collection: portfolio
 ---
