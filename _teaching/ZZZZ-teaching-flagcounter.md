@@ -1,8 +1,7 @@
 ---
 title: ""  
-collection: publications
-category: conferences
-permalink: /publications/ZZpublications-flagcounter/
+collection: teaching
+permalink: /teaching/teaching-flagcounter/
 ---
 
 
