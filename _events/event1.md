@@ -1,5 +1,5 @@
 ---
-title: "International Conference on   "
+title: " " # International Conference on   
 collection: events
 ---
 
