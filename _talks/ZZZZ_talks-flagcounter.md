@@ -1,5 +1,5 @@
 ---
-title: "Statistiques des visiteurs"
+title: ""  
 collection: talks
 permalink: /talks/flagcounter/
 ---
