@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "**_WELCOME_**"
+description: "Welcome to S. Ouchtout Home Page"
 author_profile: true
 redirect_from: 
   - /about/
