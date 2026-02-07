@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: "Welcome to S. Ouchtout Home Page"
 ---
 
 I am currently a Temporary Teaching and Research Associate at the [LMAC](https://lmac.utc.fr/) Laboratory of the Université de Technologie de Compiègne.
