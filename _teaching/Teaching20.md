@@ -1,10 +1,10 @@
 ---
-title: "Première expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2024–2025 (Deuxième semestre)"
+title: "Deuxième expérience d’enseignement à l’Université de Technologie de Compiègne – Année universitaire 2025–2026"
 collection: teaching
 type: "Laboratoire LMAC"
-permalink: /teaching/Teaching-1 
+permalink: /teaching/Teaching-20 
 venue: "Université UTC"
-date: 2025-01-01
+date: 2025-09-01
 location: "Compiègne, France"
 excerpt: ' '  #comment-Cliquez sur cet élément pour consulter la description détaillée.'
 --- 
