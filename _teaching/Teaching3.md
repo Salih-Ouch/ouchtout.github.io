@@ -9,24 +9,25 @@ location: "Compiègne, France"
 excerpt: '' #Cliquez sur cet élément pour consulter la description détaillée.
 --- 
 
-Ce cours de MT22 vise à doter les étudiants des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, indispensables à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
+Dans le cadre du cours MT22 du deuxième semestre de l’année universitaire 2024/2025, j’ai assuré les travaux dirigés (TD) visant à accompagner les étudiants dans l’acquisition des outils fondamentaux de l’analyse des fonctions de plusieurs variables et de l’analyse vectorielle, essentiels à la modélisation et à l’interprétation de phénomènes physiques et géométriques.
 
-**_Programme:_**
+Les TD ont porté notamment sur les thématiques suivantes :
 
-*-Fonctions de plusieurs variables : étude des fonctions de deux et de plusieurs variables réelles.*
 
-*-Analyse vectorielle : gradient, rotationnel, divergence et laplacien d’une fonction.*
+*-**Fonctions de plusieurs variables** : étude des fonctions de deux et de plusieurs variables réelles.*
 
-*-Courbes et surfaces : étude géométrique, paramétrisation et plan tangent à une surface.*
+*-**Analyse vectorielle** : gradient, rotationnel, divergence et laplacien d’une fonction.*
 
-*-Intégrales doubles : définition, propriétés, méthodes de calcul et applications.*
+*-**Courbes et surfaces** : étude géométrique, paramétrisation et plan tangent à une surface.*
 
-*-Intégrales triples : construction, propriétés et calculs pratiques en coordonnées adaptées.*
+*-**Intégrales doubles** : définition, propriétés, méthodes de calcul et applications.*
 
-*-Intégrales curvilignes : abscisse curviligne, circulation d’un champ de vecteurs et formes différentielles.*
+*-**Intégrales triples** : construction, propriétés et calculs pratiques en coordonnées adaptées.*
 
-*-Intégrales de surface : aire, flux d’un champ de vecteurs à travers une surface.*
+*-**Intégrales curvilignes** : abscisse curviligne, circulation d’un champ de vecteurs et formes différentielles.*
 
-*-Théorèmes intégraux : théorèmes de Green-Riemann, Stokes-Ampère et Gauss-Ostrogradski, avec applications physiques.*
+*-**Intégrales de surface** : aire, flux d’un champ de vecteurs à travers une surface.*
+
+*-**Théorèmes intégraux** : théorèmes de Green-Riemann, Stokes-Ampère et Gauss-Ostrogradski, avec applications physiques.*
 
 
